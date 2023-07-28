@@ -4,9 +4,7 @@
 
 <div align="center">
 <h1 style="text-align: center;"> <img src="profile/hi.gif" width="40" height="40">  Hi，Meet the Data Science Team @ FocusKPI 👋</h1>
-
-![https://focuskpi-ca.slack.com/archives/C025W35S0G4](https://img.shields.io/badge/DS_Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+  
 </div>
 
 ## ❓ Who We Are 
