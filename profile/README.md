@@ -27,4 +27,4 @@ Our team is led by Yunxiao, Includes [Targeting](), [Optimizers](), [Attribution
 ## Meet Our Team:
 | DS Lead    |           |            |           |         |           |              |
 |------------|-----------|------------|-----------|---------|-----------|--------------|
-| Yunxiao He <br> <img src="hi.gif" width="50" height="50"> | Bonian Lu <br> <img src="hi.gif" width="50" height="50">| Guoyi Zhao <br> <img src="hi.gif" width="50" height="50">| Hao Zhang <br> <img src="hi.gif" width="50" height="50">| Jing Ni <br> <img src="hi.gif" width="50" height="50">| Jojo Zhou <br> <img src="hi.gif" width="50" height="50">| Sicheng Xiao<br> <img src="hi.gif" width="50" height="50"> |
+| Yunxiao He <br> <img src="profile/hi.gif" width="50" height="50"> | Bonian Lu <br> <img src="profile/hi.gif" width="50" height="50">| Guoyi Zhao <br> <img src="profile/hi.gif" width="50" height="50">| Hao Zhang <br> <img src="profile/hi.gif" width="50" height="50">| Jing Ni <br> <img src="profile/hi.gif" width="50" height="50">| Jojo Zhou <br> <img src="profile/hi.gif" width="50" height="50">| Sicheng Xiao<br> <img src="profile/hi.gif" width="50" height="50"> |
