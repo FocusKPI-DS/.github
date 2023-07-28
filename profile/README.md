@@ -11,13 +11,15 @@
 
 To accelerate decision quality, leveraging data and applying analytic rigor at scale, by integrating with strategy, innovating with solutions, and elevating measurable business impact.​
 
-## Who We Are ❓
+
+## ❓ Who We Are 
 Our team is led by Yunxiao, Includes [Targeting](), [Optimizers](), [Attribution](), [Forecasting](), [Experimental Design](), [Price Elasticities](), [NLP](), [Advertising Models​]().
 
 
-## 2023 Wins 🚀
+## 🏅 2023 Wins 
 - [x] Initiated Project WordEdge leveraging NLP on customer text data to develop interest/topic-based segments.
 
+## 🚀 What We’re Working On 
 | Projects         | Clients                                                                               | Status                                                                                   | Issues |
 |------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------|
 | WordEdge Backend | ![](https://img.shields.io/badge/FocusKPI-FFA500?style=for-the-badge&logoColor=white) | ![](https://img.shields.io/badge/In_Progress-00FF00?style=for-the-badge&logoColor=white) |  ![](https://img.shields.io/badge/issue-1_open-yellow.svg) |
