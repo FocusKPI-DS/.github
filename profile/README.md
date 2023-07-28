@@ -26,7 +26,7 @@ Our team is led by Yunxiao, Includes [Targeting](), [Optimizers](), [Attribution
 | Uplift Modeling  | ![](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/Walmart-2a9df4?style=for-the-badge&logoColor=white) | ![](https://img.shields.io/badge/In_Progress-00FF00?style=for-the-badge&logoColor=white) |   ![](https://img.shields.io/badge/issue-1_open-yellow.svg)     |
 | Personalization  | ![](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logoColor=white) | ![](https://img.shields.io/badge/In_Progress-00FF00?style=for-the-badge&logoColor=white) |   ![](https://img.shields.io/badge/issue-1_open-yellow.svg)     |
 
-## Meet Our Team:
+## ☺️ Meet Our Team:
 | DS Lead    |           |            |           |         |           |              |
 |------------|-----------|------------|-----------|---------|-----------|--------------|
 | Yunxiao He <br> <img src="profile/hi.gif" width="50" height="50"> | Bonian Lu <br> <img src="profile/hi.gif" width="50" height="50">| Guoyi Zhao <br> <img src="profile/hi.gif" width="50" height="50">| Hao Zhang <br> <img src="profile/hi.gif" width="50" height="50">| Jing Ni <br> <img src="profile/hi.gif" width="50" height="50">| Jojo Zhou <br> <img src="profile/hi.gif" width="50" height="50">| Sicheng Xiao<br> <img src="profile/hi.gif" width="50" height="50"> |
