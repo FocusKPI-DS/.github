@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="profile/skills.png" />
+  <img src="skills.png" />
 </p>
 
+<div align="center">
 <h1 style="text-align: center;"> <img src="hi.gif" width="40" height="40">  Hi，Meet the Data Science Team @ FocusKPI 👋</h1>
 
+![https://focuskpi-ca.slack.com/archives/C025W35S0G4](https://img.shields.io/badge/DS_Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-![https://focuskpi-ca.slack.com/archives/C025W35S0G4](https://img.shields.io/badge/Slack-FFA500?style=for-the-badge&logo=slack&logoColor=white)
+</div>
 
 To accelerate decision quality, leveraging data and applying analytic rigor at scale, by integrating with strategy, innovating with solutions, and elevating measurable business impact.​
 
 ## Who We Are ❓
-Our team is led by Yunxiao, Includes Targeting, Optimizers, Attribution, Forecasting, Experimental Design, Price Elasticities, NLP, Advertising Models​.
+Our team is led by Yunxiao, Includes [Targeting](), [Optimizers](), [Attribution](), [Forecasting](), [Experimental Design](), [Price Elasticities](), [NLP](), [Advertising Models​]().
 
 
 ## 2023 Wins 🚀
