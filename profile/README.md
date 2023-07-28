@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="skills.png" />
+  <img src="profile/skills.png" />
 </p>
 
 <h1 style="text-align: center;"> <img src="hi.gif" width="40" height="40">  Hi，Meet the Data Science Team @ FocusKPI 👋</h1>
