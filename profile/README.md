@@ -21,11 +21,9 @@ To accelerate decision quality, leveraging data and applying analytic rigor at s
   * Conversational AI
 
 ## 🏅 2023 Wins 
-- [x] xxxxxxxxx
-- [x] xxxxxxxxx
-- [x] xxxxxxxxx
 - [x] Launched Project Forword at Textnow using NLP on customer messages to group them by interests like QSR and Banking, and to help shape various elements of our market strategy.
-- [x] Initiated Project WordEdge leveraging NLP on customer text data, enabling advanced search capabilities, effective summarization, and accurate trend prediction. 
+- [x] Initiated Project WordEdge leveraging NLP on customer text data, enabling advanced search capabilities, effective summarization, and accurate trend prediction.
+- [x] xxxxxxxxx
 
 ## 🚀 What We’re Working On 
 | Projects         | Clients                                                                               | Status                                                                                   | Issues |
