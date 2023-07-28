@@ -9,12 +9,18 @@
 
 </div>
 
-To accelerate decision quality, leveraging data and applying analytic rigor at scale, by integrating with strategy, innovating with solutions, and elevating measurable business impact.​
-
-
 ## ❓ Who We Are 
-Our team is led by Yunxiao, Includes [Targeting](), [Optimizers](), [Attribution](), [Forecasting](), [Experimental Design](), [Price Elasticities](), [NLP](), [Advertising Models​]().
-
+To accelerate decision quality, leveraging data and applying analytic rigor at scale, by integrating with strategy, innovating with solutions, and elevating measurable business impact.​ We seek to help client unlock the power of proprietary solutions to drive innovation and growth, via our expertise in the following areas:
+* Prediction and Forecasting
+  * Customer targeting for acquisition and upsells
+  * Demand forecasting
+  * Price Elasticities
+* Recommenders
+  * Personalization for product and advertising
+* NLP 
+  * Customer reviews and feedback mining
+  * Text Classification，Summarization, Trend Detection
+  * Conversational AI
 
 ## 🏅 2023 Wins 
 - [x] Initiated Project WordEdge leveraging NLP on customer text data to develop interest/topic-based segments.
