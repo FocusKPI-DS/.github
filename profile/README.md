@@ -37,5 +37,5 @@ To accelerate decision quality, leveraging data and applying analytic rigor at s
 |------------|-----------|------------|-----------|---------|-----------|--------------|
 | Yunxiao He <br> <img src="profile/smile.gif" width="50" height="50"> | Bonian Lu <br> <img src="profile/brain.gif" width="50" height="50">| Guoyi Zhao <br> <img src="profile/brain.gif" width="50" height="50">| Hao Zhang <br> <img src="profile/brain.gif" width="50" height="50">| Jing Ni <br> <img src="profile/brain.gif" width="50" height="50">| Jojo Zhou <br> <img src="profile/brain.gif" width="50" height="50">| Sicheng Xia<br> <img src="profile/brain.gif" width="50" height="50"> |
 
-## 📖 Git Workflow Chart
+## 📖 Git Workflow
 <img src="profile/git.jpg">
