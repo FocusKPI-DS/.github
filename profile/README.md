@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<h1 style="text-align: center;"> <img src="profile/hi.gif" width="40" height="40">  Hi，Meet the Data Science Team @ FocusKPI 👋</h1>
+<h1 style="text-align: center;"> <img src="hi.gif" width="40" height="40">  Hi，Meet the Data Science Team @ FocusKPI 👋</h1>
   
 </div>
 
@@ -35,7 +35,7 @@ To accelerate decision quality, leveraging data and applying analytic rigor at s
 ## ☺️ Meet Our Team:
 |    Lead    |           |            |           |         |           |              |
 |------------|-----------|------------|-----------|---------|-----------|--------------|
-| Yunxiao He <br> <img src="profile/smile.gif" width="50" height="50"> | Bonian Lu <br> <img src="profile/brain.gif" width="50" height="50">| Guoyi Zhao <br> <img src="profile/brain.gif" width="50" height="50">| Hao Zhang <br> <img src="profile/brain.gif" width="50" height="50">| Jing Ni <br> <img src="profile/brain.gif" width="50" height="50">| Jojo Zhou <br> <img src="profile/brain.gif" width="50" height="50">| Sicheng Xia<br> <img src="profile/brain.gif" width="50" height="50"> |
+| Yunxiao He <br> <img src="smile.gif" width="50" height="50"> | Bonian Lu <br> <img src="brain.gif" width="50" height="50">| Yash Paliwal <br> <img src="brain.gif" width="50" height="50">| Hao Zhang <br> <img src="brain.gif" width="50" height="50">| Jing Ni <br> <img src="brain.gif" width="50" height="50">| Cheryl Liu <br> <img src="brain.gif" width="50" height="50">| Sicheng Xia<br> <img src="brain.gif" width="50" height="50"> |
 
 ## 📖 Git Workflow
-<img src="profile/git.jpg">
+<img src="git.jpg">
